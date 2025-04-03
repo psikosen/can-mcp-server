@@ -47,7 +47,7 @@ To use the CAN MCP Server with Claude Desktop, add the following to your `claude
   "mcpServers": {
     "can": {
       "command": "node",
-      "args": ["/Users/raymondgonzalez/Documents/can-mcp-server/can-server.js"]
+      "args": ["yourpath/can-mcp-server/can-server.js"]
     }
   }
 }
