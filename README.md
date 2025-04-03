@@ -28,7 +28,7 @@ The CAN system consists of:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/can-mcp-server.git
+git clone https://github.com/psikosen/can-mcp-server.git
 cd can-mcp-server
 
 # Install dependencies
